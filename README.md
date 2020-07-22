@@ -1,5 +1,8 @@
 # myamplifyproject
 
+## VSCode Setting
+install npm plugin
+
 ## Project setup
 ```
 npm install
